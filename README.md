@@ -1,0 +1,2 @@
+# worldinar-project
+Worldinar whitepaper
