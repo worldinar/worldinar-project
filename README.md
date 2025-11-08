@@ -15,7 +15,7 @@ The goal is to create a sustainable token ecosystem where community trust is str
 ---
 
 ### 🔹 Key Links
-- 📄 [Whitepaper (PDF)](WDR Whitepaper.pdf)
+- 📄 [Whitepaper (PDF)](https://github.com/worldinar/worldinar-project/blob/main/WDR%20Whitepaper.pdf)
 - 💧 [DEX Screener Pool](https://dexscreener.com/worldchain/0x22Cc327120B899a8E988a6e83b07bC3E1009663B)
 - 💬 [Telegram](https://t.me/worldinar)
 - 🕊️ [X (Twitter)](https://x.com/Worldinarcoin?t=YV9RZCePY0_FgQ_I9OEk1g&s=09)
