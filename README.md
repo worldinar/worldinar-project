@@ -11,10 +11,31 @@ Status: Active Project
 
 ![Worldinar Banner](https://github.com/worldinar/worldinar-project/blob/main/assets/WDR%20BANNER.jpeg)
 
-### 🔹 Overview
-Worldinar (WDR) is a hybrid DeFi token built on WorldChain that merges blockchain innovation with a real-world business — gold trading and liquidity-backed growth.
+---
 
-The goal is to create a sustainable token ecosystem where community trust is strengthened by real asset connection and transparent liquidity operations.
+### 🔹 Mission
+To create a sustainable token ecosystem that bridges blockchain innovation with real-world economic value, starting with a gold-backed trading platform.
+
+### 🔹 Vision
+To become a trusted community-driven DeFi token with tangible asset support, offering transparency, liquidity stability, and long-term value for holders.
+
+---
+
+### 🔹 Tokenomics (Allocation)
+- *30% Market Listing*  
+- *20% Liquidity Lock*  
+- *15% Gradual Burn*  
+- *10% Rewards, Incentives, Airdrops*  
+- *10% Ecosystem Growth*  
+- *10% Reserve & Treasury*  
+- *5% Private Placement*  
+
+---
+
+### 🔹 Overview
+Worldinar (WDR) is a hybrid DeFi token on WorldChain, merging blockchain innovation with real-world gold trading and liquidity-backed growth.
+
+The token ecosystem is designed to provide sustainable value, community trust, and transparent operations linking on-chain and physical business activity.
 
 ---
 
